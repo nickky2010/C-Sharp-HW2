@@ -1,0 +1,14 @@
+a:\Учеба Манько Н.Г\C#.net\Домашние задания\HW2\HW2_2\bin\Debug\HW2_2.exe.config
+a:\Учеба Манько Н.Г\C#.net\Домашние задания\HW2\HW2_2\bin\Debug\HW2_2.exe
+a:\Учеба Манько Н.Г\C#.net\Домашние задания\HW2\HW2_2\bin\Debug\HW2_2.pdb
+a:\Учеба Манько Н.Г\C#.net\Домашние задания\HW2\HW2_2\obj\Debug\HW2_2.csprojAssemblyReference.cache
+a:\Учеба Манько Н.Г\C#.net\Домашние задания\HW2\HW2_2\obj\Debug\HW2_2.csproj.CoreCompileInputs.cache
+a:\Учеба Манько Н.Г\C#.net\Домашние задания\HW2\HW2_2\obj\Debug\HW2_2.exe
+a:\Учеба Манько Н.Г\C#.net\Домашние задания\HW2\HW2_2\obj\Debug\HW2_2.pdb
+a:\HW2\HW2_2\bin\Debug\HW2_2.exe.config
+a:\HW2\HW2_2\bin\Debug\HW2_2.exe
+a:\HW2\HW2_2\bin\Debug\HW2_2.pdb
+a:\HW2\HW2_2\obj\Debug\HW2_2.csprojAssemblyReference.cache
+a:\HW2\HW2_2\obj\Debug\HW2_2.csproj.CoreCompileInputs.cache
+a:\HW2\HW2_2\obj\Debug\HW2_2.exe
+a:\HW2\HW2_2\obj\Debug\HW2_2.pdb

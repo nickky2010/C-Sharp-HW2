@@ -1,0 +1,7 @@
+a:\HW2\Table\bin\Debug\Table.exe.config
+a:\HW2\Table\bin\Debug\Table.exe
+a:\HW2\Table\bin\Debug\Table.pdb
+a:\HW2\Table\obj\Debug\Table.csproj.CoreCompileInputs.cache
+a:\HW2\Table\obj\Debug\Table.exe
+a:\HW2\Table\obj\Debug\Table.pdb
+a:\HW2\Table\obj\Debug\Table.csprojAssemblyReference.cache
